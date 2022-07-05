@@ -25,7 +25,7 @@ section {
 .left1 {
     width: 55%;
     height: 450px;
-    background-image: url(/p1.jpg);
+    background-image: url(../infiheal_task/p1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -34,7 +34,7 @@ section {
 .left2 {
     width: 55%;
     height: 450px;
-    background-image: url(/p2.jpg);
+    background-image: url(../infiheal_task/p2.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
